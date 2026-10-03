@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abitur-nachholen.vercel.app/sitemap.xml
