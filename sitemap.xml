@@ -1,45 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://abitur-nachholen.vercel.app/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://abitur-nachholen.vercel.app/assets/notendurchschnitt-formel-berechnen.png</image:loc>
+      <image:title>Formel zur Berechnung des Notendurchschnitts</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://abitur-nachholen.vercel.app/abendgymnasium.html</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://abitur-nachholen.vercel.app/assets/notendurchschnitt-formel-berechnen.png</image:loc>
+      <image:title>Formel zur Berechnung des Notendurchschnitts</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://abitur-nachholen.vercel.app/kolleg.html</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://abitur-nachholen.vercel.app/assets/notendurchschnitt-formel-berechnen.png</image:loc>
+      <image:title>Formel zur Berechnung des Notendurchschnitts</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://abitur-nachholen.vercel.app/externenpruefung.html</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://abitur-nachholen.vercel.app/assets/notendurchschnitt-formel-berechnen.png</image:loc>
+      <image:title>Formel zur Berechnung des Notendurchschnitts</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://abitur-nachholen.vercel.app/notenschnitt-berechnen.html</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://abitur-nachholen.vercel.app/assets/notendurchschnitt-formel-berechnen.png</image:loc>
+      <image:title>Formel zur Berechnung des Notendurchschnitts</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://abitur-nachholen.vercel.app/assets/punkte-in-noten-15-punkte-tabelle-oberstufe.png</image:loc>
+      <image:title>15-Punkte-Tabelle der Oberstufe: Umrechnung von Punkten in Abiturnoten</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://abitur-nachholen.vercel.app/fachhochschulreife-nachholen.html</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://abitur-nachholen.vercel.app/assets/notendurchschnitt-formel-berechnen.png</image:loc>
+      <image:title>Formel zur Berechnung des Notendurchschnitts</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://abitur-nachholen.vercel.app/lernen-als-erwachsener.html</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://abitur-nachholen.vercel.app/assets/notendurchschnitt-formel-berechnen.png</image:loc>
+      <image:title>Formel zur Berechnung des Notendurchschnitts</image:title>
+    </image:image>
   </url>
 </urlset>
